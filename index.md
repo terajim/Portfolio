@@ -4,7 +4,7 @@ A collection of previous experience gained from various work and projects.
 
 ---
 
-## Formula Student (ARISTURTLE)
+## Formula Student (ARISTURTLE) [2018-2019]
 
 The team: (https://www.aristurtle.gr/)
 
@@ -41,6 +41,29 @@ Description:
 
 ---
 
+## Previous Work
+
+[The SARM project](https://www.thesarmproject.com/)
+
+Position: CFD Intern
+
+Description: Jobs and responsibilities there
+
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Spinthir Designs ltd](http://example.com/)
+
+Position: CFD Post-Processing Consultant
+
+Description: Jobs and responsibilities there
+ 
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
 ## University projects
 
 [CFD](http://example.com/)
@@ -71,26 +94,6 @@ Description:
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-## Previous Work
-
-[The SARM project](https://www.thesarmproject.com/)
-
-Position: CFD Intern
-
-Description: Jobs and responsibilities there
-
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Spinthir Designs ltd](http://example.com/)
-
-Position: CFD Post-Processing Consultant
-
-Description: Jobs and responsibilities there
- 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!-- - [Trial 2](http://example.com/)
 - [Project 2 Title](http://example.com/)
