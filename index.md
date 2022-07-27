@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Formula Student (ARISTURTLE)
+## Formula Student (ARISTURTLE)
 
 The team: (https://www.aristurtle.gr/)
 
@@ -10,7 +10,7 @@ General: How it started and how it finally went. Jobs, responsibilities, program
 
 --
 
-# Key projects
+### Key projects
 
 [Undertray](/sample_page)
 
@@ -41,7 +41,7 @@ Description:
 
 ---
 
-### University projects
+## University projects
 
 [CFD](http://example.com/)
 
@@ -71,7 +71,7 @@ Description:
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### Previous Work
+## Previous Work
 
 [The SARM project](https://www.thesarmproject.com/)
 
