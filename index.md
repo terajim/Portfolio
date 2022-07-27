@@ -8,7 +8,7 @@ A collection of previous experience gained from various work and projects.
 
 [The team](https://www.aristurtle.gr/)
 
-General: How it started and how it finally went. Jobs, responsibilities, programs, final results
+Role: How it started and how it finally went. Jobs, responsibilities, programs, final results
 
 ### Key projects
 
