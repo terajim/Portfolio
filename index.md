@@ -65,20 +65,20 @@ Description:
 ---
 ### Previous Work
 
-[The SARM project](http://example.com/)
+[The SARM project](https://www.thesarmproject.com/)
 
-Description: 
+Position: CFD Intern
+Description: Jobs and responsibilities there
 
-CFD intern
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Spinthir Designs ltd](http://example.com/)
 
-Description: 
-
-CFD Post Processing associate 
+Position: CFD Post-Processing Consultant
+Description: Jobs and responsibilities there
+ 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
