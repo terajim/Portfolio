@@ -43,7 +43,7 @@ Description:
 
 ## Previous Positions
 
-### The SARM project
+### The SARM project [Dec 20 - Feb 21]
 
 [The company](https://www.thesarmproject.com/)
 
@@ -55,7 +55,7 @@ Description: Jobs and responsibilities there
 
 ---
 
-### Spinthir Designs ltd
+### Spinthir Designs ltd [May 22 - June 22]
 
 [The company](http://example.com/)
 
