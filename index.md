@@ -68,6 +68,7 @@ Description:
 [The SARM project](https://www.thesarmproject.com/)
 
 Position: CFD Intern
+
 Description: Jobs and responsibilities there
 
 
@@ -77,6 +78,7 @@ Description: Jobs and responsibilities there
 [Spinthir Designs ltd](http://example.com/)
 
 Position: CFD Post-Processing Consultant
+
 Description: Jobs and responsibilities there
  
 
