@@ -43,7 +43,9 @@ Description:
 
 ## Previous Positions
 
-[The SARM project](https://www.thesarmproject.com/)
+### The SARM project
+
+[The company](https://www.thesarmproject.com/)
 
 Position: CFD Intern
 
@@ -53,7 +55,9 @@ Description: Jobs and responsibilities there
 
 ---
 
-[Spinthir Designs ltd](http://example.com/)
+### Spinthir Designs ltd
+
+[The company](http://example.com/)
 
 Position: CFD Post-Processing Consultant
 
