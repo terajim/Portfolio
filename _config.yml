@@ -2,10 +2,12 @@ title: Dimitrios Terzis
 logo: "/images/AvatarMaker.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  Msc Mechanical Engineer 
+  Msc Mechanical Engineer (Sep 2022) <br>
+  Specilization: Aeronautics and Engines <br>
+  Thesis Title: Application of Responce Surface Method and Design of Experiments for the optimization of an electric UAV <br>
+  Interests: F1, Cycling, Traveling <br>
   <br><br>
-  Second description 
-  <br><br>
+ 
   <a href="https://www.linkedin.com/in/dimitrios-terzis-640209186/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
