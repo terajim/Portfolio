@@ -5,19 +5,30 @@
 ### Formula Student (ARISTURTLE)
 
 [Undertray](/sample_page)
+
+Description: 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Sidepods & radiator](/pdf/sample_presentation.pdf)
+
+Description: 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Diffuser](http://example.com/)
 
+Description: 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Complete Package](http://example.com/)
+
+Description: 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -25,27 +36,50 @@
 ### University projects
 
 [CFD](http://example.com/)
+
+Description: 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [FEM](http://example.com/)
+
+Description: 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[](http://example.com/)
+[Internal Combustion Engines](http://example.com/)
+
+Description: 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Aircraft Design](http://example.com/)
 
+Description: 
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 ### Previous Work
 
 [The SARM project](http://example.com/)
+
+Description: 
+
 CFD intern
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Spinthir Designs ltd](http://example.com/)
+
+Description: 
+
 CFD Post Processing associate 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!-- - [Trial 2](http://example.com/)
