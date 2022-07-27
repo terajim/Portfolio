@@ -4,6 +4,14 @@
 
 ### Formula Student (ARISTURTLE)
 
+The team: (https://www.aristurtle.gr/)
+
+General: How it started and how it finally went. Jobs, responsibilities, programs, final results
+
+--
+
+# Key projects
+
 [Undertray](/sample_page)
 
 Description: 
